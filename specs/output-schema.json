@@ -1,0 +1,12 @@
+{
+  "analise_lead": {
+    "classificacao": "QUENTE | MORNO | FRIO",
+    "confianca": "0.0 a 1.0",
+    "principais_dores": ["lista de strings"],
+    "objetivo_atingido": "boolean",
+    "sugestao_prime": {
+      "gatilho_mental": "string",
+      "mensagem_pronta": "string"
+    }
+  }
+}
